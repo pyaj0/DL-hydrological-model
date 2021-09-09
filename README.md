@@ -7,8 +7,8 @@ Hi y'all! Check out here all of the codes related to my master's thesis!!
 
 The notebooks should be viewed in the following order:
 
-- [Climate data transformation](./1_climate_data_netcdf_to_csv.ipynb): shows the different process of transforming climate data (precipitation, minimum and maximum temperature) from netCDF files of AGHRYMET to csv files
-- [Hydro data transformation](./2_hydro_data_xlsx_to_csv.ipynb): shows the different process of transforming hydrological data (river discharge of 3 stations: Ansongo, Kandadji and Niamey) from xlsx files of AGHRYMET and NBA to csv files
+- [Climate data transformation](./1_climate_data_netcdf_to_csv.ipynb): shows the different process of transforming climate data (precipitation, minimum and maximum temperature) from netCDF files of ARC to csv files
+- [Hydro data transformation](./2_hydro_data_xlsx_to_csv.ipynb): shows the different process of transforming hydrological data (river discharge of 3 stations: Ansongo, Kandadji and Niamey) from xlsx files of ARC and NBA to csv files
 - [Hydro data analysis](./3_hydro_data_analysis.ipynb): compares the different sources of hydrological data and fills missing data with easy and adequate interpolation method
 - [Climate and hydro data merge](./4_merge_climate_and_hydro_data.ipynb): merges climate data and hydro data to have final csv to be used in LSTM model
 - [Hyperparameter optimization](./5_hyper_parameters_lstm.ipynb): selects best hyperparameters of LSTM model
