@@ -21,7 +21,7 @@ The figure below shows the summary of the methodology used in this research. The
 
 ## Data
 
-I am using 29 years and 6 months (from June 1981 to December 2010) of daily precipitation, maximum temperature, minimum temperature and river discharge at 3 different stations: Ansongo, Kandadji and Niamey (a total of 10806 rows of data and 7 columns). I would refer to climate data all data related to precipitation and temperature data and to hydro data all data on river discharge.
+I used 29 years and 6 months (from June 1981 to December 2010) of daily precipitation, maximum temperature, minimum temperature and river discharge at 3 different stations: Ansongo, Kandadji and Niamey (a total of 10806 rows of data and 7 columns). I refered to climate data all data related to precipitation and temperature and to hydro data all data of river discharge.
 
 Unfortunately, I could not share the data used in these notebooks due to sharing policies of the data providers :-(
 
