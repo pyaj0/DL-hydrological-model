@@ -1,7 +1,7 @@
 # DL-hydrological-model
  Predicting discharge in catchment outlet using deep learning methods: case study of Niamey in the Ansongo-Niamey basin
 
-Hi y'all! Check out here all of the codes related to my master's thesis project!!
+Hi y'all! Check out here all of the codes related to my master's thesis!!
 
 ## Description of the notebooks
 
