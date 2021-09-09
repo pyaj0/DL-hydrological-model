@@ -25,9 +25,19 @@ I am using 29 years and 6 months (from June 1981 to December 2010) of daily prec
 
 Unfortunately, I could not share the data used in these notebooks due to sharing policies of the data providers :-(
 
-## Environments
+## Anaconda Environments
 
 Two environments were built in Anaconda for this work **GIS** for the processing of spatial data (netCDF files) and **tf** for processing of the xlsx files and machine learning operations.
 
 All the details about the versions of the modules and environments in the following url: https://anaconda.org/Pyaj/environments
 
+Install the environments using an Anaconda Prompt:
+
+- for GIS environment:
+```
+conda env create pyaj/GIS
+```
+- for tf environment:
+```
+conda env create pyaj/tf
+```
