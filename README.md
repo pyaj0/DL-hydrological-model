@@ -21,4 +21,6 @@ The notebooks should be viewed in the following order:
 - 5_hyper_parameters_lstm.ipynb: selects best hyperparameters of LSTM model
 - 6_lstm_model.ipynb: runs the LSTM model and tests its results
 
+The figure below shows the summary of the methodology used in this research. The text in blue represent the modules and those in green represent the main methods used in this research. The rectangle boxes represent the different notebooks.
+
 ![Methods](./images/method.png)
