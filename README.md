@@ -12,7 +12,7 @@ The notebooks should be viewed in the following order:
 - [Hydro data analysis](./3_hydro_data_analysis.ipynb): compares the different sources of hydrological data and fills missing data with easy and adequate interpolation method
 - [Climate and hydro data merge](./4_merge_climate_and_hydro_data.ipynb): merges climate data and hydro data to have final csv to be used in LSTM model
 - [Hyperparameter optimization](./5_hyper_parameters_lstm.ipynb): selects best hyperparameters of LSTM model
-- [LSTM model](./6_lstm_model.ipynb): runs the LSTM model and tests its results
+- [LSTM model](./6_lstm_model.ipynb): trains and tests the LSTM model
 
 The figure below shows the summary of the methodology used in this research. The text in blue represent the modules and those in green represent the main methods used in this research. The rectangle boxes represent the different notebooks.
 
