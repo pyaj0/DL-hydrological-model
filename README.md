@@ -3,6 +3,12 @@
 
 Hi y'all! Check out here all of the codes related to my master's thesis!!
 
+## Data
+
+I used 29 years and 6 months (from June 1981 to December 2010) of daily precipitation, maximum temperature, minimum temperature and river discharge at 3 different stations: Ansongo, Kandadji and Niamey (a total of 10806 rows of data and 7 columns). I refered to climate data all data related to precipitation and temperature and to hydro data all data of river discharge.
+
+Unfortunately, I could not share the data used in these notebooks due to sharing policies of the data providers :(
+
 ## Description of the notebooks
 
 The notebooks should be viewed in the following order:
@@ -17,13 +23,6 @@ The notebooks should be viewed in the following order:
 The figure below shows the summary of the methodology used in this research. The text in blue represent the modules and those in green represent the main methods used in this research. The rectangle boxes represent the different notebooks.
 
 ![Methods](./images/method.png)
-
-
-## Data
-
-I used 29 years and 6 months (from June 1981 to December 2010) of daily precipitation, maximum temperature, minimum temperature and river discharge at 3 different stations: Ansongo, Kandadji and Niamey (a total of 10806 rows of data and 7 columns). I refered to climate data all data related to precipitation and temperature and to hydro data all data of river discharge.
-
-Unfortunately, I could not share the data used in these notebooks due to sharing policies of the data providers :-(
 
 ## Anaconda Environments
 
