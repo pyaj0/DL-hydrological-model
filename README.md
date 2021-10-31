@@ -1,7 +1,7 @@
 # DL-hydrological-model
- Predicting discharge in catchment outlet using deep learning methods: case study of Niamey in the Ansongo-Niamey basin
+ Predicting Discharge in Catchment Outlet Using Deep Learning: case study of the Ansongo-Niamey Basin
 
-Hi y'all! Check out here all of the codes related to my master's thesis!!
+Hi y'all! Check out here all of the codes related to my article!!
 
 ## Data
 
@@ -17,8 +17,10 @@ The notebooks should be viewed in the following order:
 - [Hydro data transformation](./2_hydro_data_xlsx_to_csv.ipynb): shows the different process of transforming hydrological data (river discharge of 3 stations: Ansongo, Kandadji and Niamey) from xlsx files of ARC and NBA to csv files
 - [Hydro data analysis](./3_hydro_data_analysis.ipynb): compares the different sources of hydrological data and fills missing data with easy and adequate interpolation method
 - [Climate and hydro data merge](./4_merge_climate_and_hydro_data.ipynb): merges climate data and hydro data to have final csv to be used in LSTM model
-- [Hyperparameter optimization](./5_hyper_parameters_lstm.ipynb): selects best hyperparameters of LSTM model
+- [LSTM Hyperparameter optimization](./5_hyper_parameters_lstm.ipynb): selects best hyperparameters of LSTM model
+- [GRU Hyperparameter optimization](./6_hyper_parameters_gru.ipynb): selects best hyperparameters of LSTM model
 - [LSTM model](./6_lstm_model.ipynb): trains and tests the LSTM model
+- [GRU model](./6_lstm_model.ipynb): trains and tests the GRU model
 
 The figure below shows the summary of the methodology used in this research. The text in blue represent the modules and those in green represent the main methods used in this research. The rectangle boxes represent the different notebooks.
 
