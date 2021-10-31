@@ -19,8 +19,8 @@ The notebooks should be viewed in the following order:
 - [Climate and hydro data merge](./4_merge_climate_and_hydro_data.ipynb): merges climate data and hydro data to have final csv to be used in DL models
 - [LSTM Hyperparameter optimization](./5_hyper_parameters_lstm.ipynb): selects best hyperparameters of LSTM model
 - [GRU Hyperparameter optimization](./6_hyper_parameters_gru.ipynb): selects best hyperparameters of GRU model
-- [LSTM model](./6_lstm_model.ipynb): trains and tests the LSTM model
-- [GRU model](./6_lstm_model.ipynb): trains and tests the GRU model
+- [LSTM model](./7_lstm_model.ipynb): trains and tests the LSTM model
+- [GRU model](./8_lstm_model.ipynb): trains and tests the GRU model
 
 The figure below shows the summary of the methodology used in this research. The text in blue represent the modules and those in green represent the main methods used in this research. The rectangle boxes represent the different notebooks.
 
