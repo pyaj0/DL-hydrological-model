@@ -1,5 +1,5 @@
 # DL-hydrological-model
- Predicting Discharge in Catchment Outlet Using Deep Learning: case study of the Ansongo-Niamey Basin
+ Predicting Discharge in Catchment Outlet Using Deep Learning: Case Study of the Ansongo-Niamey Basin
 
 Hi y'all! Check out here all of the codes related to my article!!
 
