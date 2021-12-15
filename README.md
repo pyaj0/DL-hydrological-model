@@ -3,6 +3,15 @@
 
 Hi y'all! Check out here all of the codes related to my article!!
 
+
+@inproceedings{adounkpe2021predicting,
+  title={Predicting Discharge in Catchment Outlet Using Deep Learning: Case Study of the Ansongo-Niamey Basin},
+  author={Adounkpe, Peniel J. Y. and Alamou, Eric and Diallo, Belko and Ali, Abdou},
+  booktitle={NeurIPS 2021 Workshop on Tackling Climate Change with Machine Learning},
+  url={https://www.climatechange.ai/papers/neurips2021/5},
+  year={2021}
+}
+
 ## Data
 
 I used 29 years and 6 months (from June 1981 to December 2010) of daily precipitation, maximum temperature, minimum temperature and river discharge at 3 different stations: Ansongo, Kandadji and Niamey (a total of 10806 rows of data and 7 columns). I refered to climate data all data related to precipitation and temperature and to hydro data all data of river discharge.
