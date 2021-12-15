@@ -5,11 +5,17 @@ Hi y'all! Check out here all of the codes related to my article!!
 
 
 @inproceedings{adounkpe2021predicting,
+
   title={Predicting Discharge in Catchment Outlet Using Deep Learning: Case Study of the Ansongo-Niamey Basin},
+  
   author={Adounkpe, Peniel J. Y. and Alamou, Eric and Diallo, Belko and Ali, Abdou},
+  
   booktitle={NeurIPS 2021 Workshop on Tackling Climate Change with Machine Learning},
+  
   url={https://www.climatechange.ai/papers/neurips2021/5},
+  
   year={2021}
+  
 }
 
 ## Data
