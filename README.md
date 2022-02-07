@@ -3,7 +3,7 @@ Predicting Discharge in Catchment Outlet Using Deep Learning: Case Study of the 
 
 Hi y'all! Check out here all of the codes related to my article!!
 
-
+```
 @inproceedings{adounkpe2021predicting,
 
   title={Predicting Discharge in Catchment Outlet Using Deep Learning: Case Study of the Ansongo-Niamey Basin},
@@ -17,6 +17,7 @@ Hi y'all! Check out here all of the codes related to my article!!
   year={2021}
   
 }
+```
 
 ## Data
 
